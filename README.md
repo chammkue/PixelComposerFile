@@ -8,6 +8,7 @@
 
 * TilesetGenerator.pxc  
 自作ゲーム用タイルセット生成  
+開くたびに挙動が違うぐらい不安定なので要注意
 
 * StarrySky.pxc  
 星空生成用テンプレート
