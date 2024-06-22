@@ -8,7 +8,6 @@
 
 * TilesetGenerator.pxc  
 自作ゲーム用タイルセット生成  
-MKTileは接続が毎回おかしくなるバグがあるっぽいので、起動のたびに接続が必要
 
 * StarrySky.pxc  
 星空生成用テンプレート
