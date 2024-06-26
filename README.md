@@ -14,3 +14,6 @@
 
 * SkeltonAnim.pxc  
 ボーンアニメーション用テンプレート
+
+* TreeGenerator.pxc  
+木生成用テンプレート
