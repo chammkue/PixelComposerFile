@@ -9,10 +9,10 @@
 * Flame.pxc
 炎
 
-* LSystem.pxc
+* LSystem.pxc  
 LSystemによるフラクタル木、わからん
 
-* RandomEnemy.pxc
+* RandomEnemy.pxc  
 プロトタイプ用のなんでも良いから画像ほしいとき用
 
 * SkeltonAnim.pxc  
