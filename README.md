@@ -6,7 +6,7 @@
 * Door.pxc  
 ゲーム用の機械扉
 
-* Flame.pxc
+* Flame.pxc  
 炎
 
 * LSystem.pxc  
@@ -14,6 +14,9 @@ LSystemによるフラクタル木、わからん
 
 * RandomEnemy.pxc  
 プロトタイプ用のなんでも良いから画像ほしいとき用
+
+* Reticle.pxc  
+レティクル、ロックオンサイト
 
 * SkeltonAnim.pxc  
 ボーンアニメーション用テンプレート
