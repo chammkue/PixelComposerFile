@@ -30,5 +30,8 @@ LSystemによるフラクタル木、わからん
 * TilesetTest.pxc  
 タイルセット機能確認
 
-* TreeGenerator.pxc  
-木生成用テンプレート
+* TextMotion.pxc  
+モーショングラフィックスみたいなやつ（要フォントファイル）
+
+* TreasureBox.pxc  
+宝箱
