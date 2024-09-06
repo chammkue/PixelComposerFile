@@ -1,5 +1,8 @@
 # PixelComposer用テンプレートとか
 
+* CumulonimbusCloud.pxc  
+雲
+
 * Destruction.pxc  
 破壊アニメーション生成テンプレート、Canvasの色分けで画像を分離
 
@@ -35,3 +38,4 @@ LSystemによるフラクタル木、わからん
 
 * TreasureBox.pxc  
 宝箱
+
